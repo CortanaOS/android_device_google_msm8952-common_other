@@ -7,8 +7,7 @@ PRODUCT_PACKAGES += \
     libOmxEvrcEnc \
     libOmxQcelp13Enc \
     libOmxVdec \
-    libOmxVenc \
-    libstagefrighthw
+    libOmxVenc
 
 ifneq ($(QCPATH),)
 PRODUCT_PACKAGES += \
