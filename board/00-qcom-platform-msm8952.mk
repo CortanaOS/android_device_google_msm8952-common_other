@@ -1,5 +1,5 @@
 # Platform
-TARGET_BOARD_PLATFORM := msm8952
+TARGET_BOARD_PLATFORM := msm8916
 
 # Architecture
 TARGET_BOARD_SUFFIX := _32
